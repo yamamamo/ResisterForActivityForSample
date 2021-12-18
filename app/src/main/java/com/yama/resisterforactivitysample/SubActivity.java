@@ -23,7 +23,7 @@ public class SubActivity extends AppCompatActivity {
              Intent intent = new Intent ();
              String result = edt_result.getText ().toString ();
              intent.putExtra ("result", result);
-             setResult (-1, intent);
+             setResult (RESULT_OK, intent);
              finish ();
 
          });
