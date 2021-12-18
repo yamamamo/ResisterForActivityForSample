@@ -16,4 +16,16 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"/>
 
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/edt_result"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="@+id/edt_result"
+        app:layout_constraintTop_toBottomOf="@+id/edt_result"
+        app:layout_constraintVertical_bias="0.203" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ResisterForActivitySample</string>
+    <string name="meta_test">meta-data</string>
 </resources>
