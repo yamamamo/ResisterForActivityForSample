@@ -3,7 +3,10 @@ package com.yama.resisterforactivitysample;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+/**
+ * ResiserForActivitySample
+ *
+ * */
 public class MainActivity extends AppCompatActivity {
 
     @Override
