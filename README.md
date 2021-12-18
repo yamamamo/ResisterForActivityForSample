@@ -1,1 +1,1 @@
-ResisterForActivity Sample 
+ResisterForActivityReult Sample 
